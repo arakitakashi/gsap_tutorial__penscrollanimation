@@ -1,3 +1,8 @@
+tutorial 
+Practical GreenSock
+https://ihatetomatoes.net/get-practical-greensock/
+
+
 # Links 
 
 [ScrollTrigger - Pen Reveal](https://ihatetomatoes.net/store/)
